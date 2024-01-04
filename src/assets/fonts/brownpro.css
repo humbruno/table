@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'BrownPro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('subset-BrownPro-Bold.eot');
+  src: url('subset-BrownPro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('subset-BrownPro-Bold.woff2') format('woff2'),
+    url('subset-BrownPro-Bold.woff') format('woff'),
+    url('subset-BrownPro-Bold.ttf') format('truetype'),
+    url('subset-BrownPro-Bold.svg#BrownPro-Bold') format('svg');
+}
+
+@font-face {
+  font-family: 'BrownPro';
+  font-style: normal;
+  font-weight: 300;
+  src: url('subset-BrownPro-Light.eot');
+  src: url('subset-BrownPro-Light.eot?#iefix') format('embedded-opentype'),
+    url('subset-BrownPro-Light.woff2') format('woff2'),
+    url('subset-BrownPro-Light.woff') format('woff'),
+    url('subset-BrownPro-Light.ttf') format('truetype'),
+    url('subset-BrownPro-Light.svg#BrownPro-Light') format('svg');
+}
+
+@font-face {
+  font-family: 'BrownPro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('subset-BrownPro-Regular.eot');
+  src: url('subset-BrownPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('subset-BrownPro-Regular.woff2') format('woff2'),
+    url('subset-BrownPro-Regular.woff') format('woff'),
+    url('subset-BrownPro-Regular.ttf') format('truetype'),
+    url('subset-BrownPro-Regular.svg#BrownPro-Regular') format('svg');
+}
+
+@font-face {
+  font-family: 'BrownPro';
+  font-style: normal;
+  font-weight: 100;
+  src: url('subset-BrownPro-Thin.eot');
+  src: url('subset-BrownPro-Thin.eot?#iefix') format('embedded-opentype'),
+    url('subset-BrownPro-Thin.woff2') format('woff2'),
+    url('subset-BrownPro-Thin.woff') format('woff'),
+    url('subset-BrownPro-Thin.ttf') format('truetype'),
+    url('subset-BrownPro-Thin.svg#BrownPro-Thin') format('svg');
+}
